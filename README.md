@@ -1,9 +1,3 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
- <source media="(prefers-color-scheme: light)" srcset="(https://images.unsplash.com/photo-1567201864585-6baec9110dac?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)">
- <img alt="A white Background" src="YOUR-DEFAULT-IMAGE">
-</picture>
-
 ## About me 👋
 Hi, I am a Highly Skilled Software Engineer with expertise in Frontend and backend development. Operates well in
 both individual and team capacities, leveraging seasoned work ethic to quickly adapt to different
