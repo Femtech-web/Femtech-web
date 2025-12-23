@@ -1,48 +1,141 @@
-## About me 👋
-Hi, I am a Highly Skilled Software Engineer with expertise in Frontend and backend development. Operates well in
-both individual and team capacities, leveraging seasoned work ethic to quickly adapt to different
-processes and drive company objectives.
+<div align="center">
+  
+# Hey, I'm Femi 👋
 
-## Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_akoladeoluwafemi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeyemi-femi/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Fem_webDev)
+### Fullstack Engineer · System Architect · Builder
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://femdev.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeyemi-femi-176302244)
+[![Twitter](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Fem_webDev)
 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/adeyemi-femi">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.linkedin.com/in/adeyemi-femi">
-      <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-    <a href="https://twitter.com/Fem_webDev">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
 </div>
 
-- :mailbox: How to reach me: [Whatsapp](+2348149118596)
+---
 
-- 🔭 ## Languages and Tools
-- ![Website](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Website](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Website](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![Website](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Website](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Website](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Website](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Website](https://img.shields.io/badge/REST%20API-FF5733?style=for-the-badge)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build systems that scale. From real-time platforms handling thousands of concurrent users to privacy-preserving applications using cutting-edge cryptography—I architect solutions that solve real problems.
+
+**Currently:** Fullstack Engineer at [DSTRCT Group](https://www.linkedin.com/company/dstrctgroup/)—building web & mobile solutions for brands across media and creative industries.
+
+**Building:** [Gamerie](https://gamerie.gg)—an esports social platform with a complete token economy, real-time competitive gaming, and 200+ API endpoints.
+
+---
+
+## 🔧 What I Work With
+
+**Languages**
+```
+TypeScript · JavaScript · Go · Solidity · SQL
+```
+
+**Backend**
+```
+Node.js · NestJS · Express · GraphQL · REST APIs · WebSockets
+```
+
+**Frontend**
+```
+React · Next.js · React Native · TailwindCSS
+```
+
+**Data & Infrastructure**
+```
+PostgreSQL · MongoDB · Redis · Supabase · AWS · Docker
+```
+
+**Web3 & Cryptography**
+```
+Solidity · Hardhat · Ethers.js · FHE (Fully Homomorphic Encryption) · IPFS
+```
+
+---
+
+## 🏗️ Notable Projects
+
+### Gamerie — Esports Social Platform
+> A comprehensive competitive gaming ecosystem with team management, tournaments, real-time messaging, and a custom token economy (GLK).
+
+**Stack:** React 18 · NestJS · PostgreSQL · Socket.io · Stripe · OAuth  
+**Scale:** 15 modules · 260+ components · 200+ API endpoints
+
+---
+
+### Uniquity — Privacy-Preserving Proof of Humanity
+> Hackathon project using Fully Homomorphic Encryption for biometric verification where sensitive data never leaves the device unencrypted.
+
+**Stack:** TypeScript · FHE · Biometric Processing · Smart Contracts
+
+---
+
+### Confidential Payroll
+> On-chain payroll management system with privacy-preserving computations using Zama's FHE technology.
+
+**Stack:** Solidity · TypeScript · FHE · Sepolia Testnet
+
+---
+
+### Travel Booking Microservice ⭐
+> Production-ready microservice architecture for travel bookings with clean separation of concerns.
+
+**Stack:** TypeScript · Microservices · Docker
+
+---
+
+### Commitra — AI Developer CLI ⭐
+> CLI tool that generates context-rich commit messages, READMEs, and provides project intelligence using AI.
+
+**Stack:** TypeScript · CLI · AI Integration
+
+---
+
+### Femcoin
+> Peer-to-peer cryptocurrency implementation with custom consensus mechanism.
+
+**Stack:** TypeScript · Cryptography · P2P Networking
+
+---
+
+## 📊 Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Femtech-web&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Femtech-web&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Femtech-web&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+
+</div>
+
+---
+
+## 💡 What Sets Me Apart
+
+- **System Design:** I don't just write code—I architect systems. From database schemas to API design to deployment pipelines.
+- **Full Ownership:** Comfortable owning projects end-to-end, from initial architecture to production deployment and scaling.
+- **Emerging Tech:** Hands-on experience with Web3, FHE cryptography, and decentralized systems.
+- **Shipped Products:** Real platforms serving real users, not just tutorial projects.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to discussing interesting projects, technical challenges, or opportunities to build something impactful.
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akoladeoluwafemi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeyemi-femi-176302244)
+[![Twitter](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Fem_webDev)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/_akoladeoluwafemi)
+
+</div>
+
+---
+
+<div align="center">
+  
+*"Building the future, one commit at a time."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Femtech-web&color=58A6FF&style=flat-square&label=Profile+Views)
+
+</div>
