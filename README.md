@@ -59,20 +59,6 @@ Solidity · Hardhat · Ethers.js · FHE (Fully Homomorphic Encryption) · IPFS
 
 ---
 
-### Uniquity — Privacy-Preserving Proof of Humanity
-> Hackathon project using Fully Homomorphic Encryption for biometric verification where sensitive data never leaves the device unencrypted.
-
-**Stack:** TypeScript · FHE · Biometric Processing · Smart Contracts
-
----
-
-### Confidential Payroll
-> On-chain payroll management system with privacy-preserving computations using Zama's FHE technology.
-
-**Stack:** Solidity · TypeScript · FHE · Sepolia Testnet
-
----
-
 ### Travel Booking Microservice ⭐
 > Production-ready microservice architecture for travel bookings with clean separation of concerns.
 
@@ -87,6 +73,27 @@ Solidity · Hardhat · Ethers.js · FHE (Fully Homomorphic Encryption) · IPFS
 
 ---
 
+### Uniquity — Privacy-Preserving Proof of Humanity
+> Hackathon project using Fully Homomorphic Encryption for biometric verification where sensitive data never leaves the device unencrypted.
+
+**Stack:** TypeScript · FHE · Biometric Processing · Smart Contracts
+
+---
+
+### Confidential Payroll
+> On-chain payroll management system with privacy-preserving computations using Zama's FHE technology.
+
+**Stack:** Solidity · TypeScript · FHE · Sepolia Testnet
+
+---
+
+### Go Baker — ML Prediction Engine ⭐
+> Prediction application built in Go using the K-Nearest Neighbors algorithm for intelligent data classification.
+
+**Stack:** Go · KNN Algorithm · Machine Learning
+
+---
+
 ### Femcoin
 > Peer-to-peer cryptocurrency implementation with custom consensus mechanism.
 
@@ -98,11 +105,16 @@ Solidity · Hardhat · Ethers.js · FHE (Fully Homomorphic Encryption) · IPFS
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Femtech-web&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+<a href="https://github.com/Femtech-web">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Femtech-web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Femtech-web&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Femtech-web&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+</div>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Femtech-web&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Femtech-web&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
