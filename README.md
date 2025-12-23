@@ -54,8 +54,7 @@ Solidity · Hardhat · Ethers.js · FHE (Fully Homomorphic Encryption) · IPFS
 ### Gamerie — Esports Social Platform
 > A comprehensive competitive gaming ecosystem with team management, tournaments, real-time messaging, and a custom token economy (GLK).
 
-**Stack:** React 18 · NestJS · PostgreSQL · Socket.io · Stripe · OAuth  
-**Scale:** 15 modules · 260+ components · 200+ API endpoints
+**Stack:** React 18 · NestJS · PostgreSQL · Socket.io · Stripe · OAuth 
 
 ---
 
@@ -109,12 +108,6 @@ Solidity · Hardhat · Ethers.js · FHE (Fully Homomorphic Encryption) · IPFS
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Femtech-web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Femtech-web&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </a>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Femtech-web&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
