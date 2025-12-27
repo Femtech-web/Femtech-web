@@ -65,6 +65,14 @@ Solidity · Hardhat · Ethers.js · FHE (Fully Homomorphic Encryption) · IPFS
 
 ---
 
+Expendit — Expense Tracker (Open Source)
+
+Led a team to build a comprehensive expense tracking application. Open source contributor and team lead.
+
+Stack: TypeScript · Go · React · Node.js
+
+---
+
 ### Commitra — AI Developer CLI ⭐
 > CLI tool that generates context-rich commit messages, READMEs, and provides project intelligence using AI.
 
