@@ -65,11 +65,10 @@ Solidity · Hardhat · Ethers.js · FHE (Fully Homomorphic Encryption) · IPFS
 
 ---
 
-Expendit — Expense Tracker (Open Source)
+### Expendit — Expense Tracker (Open Source)
+> Led a team to build a comprehensive expense tracking application. Open source contributor and team lead.
 
-Led a team to build a comprehensive expense tracking application. Open source contributor and team lead.
-
-Stack: TypeScript · Go · React · Node.js
+**Stack:** TypeScript · Go · React · Node.js
 
 ---
 
