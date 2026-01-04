@@ -14,9 +14,9 @@
 
 I build systems that scale. From Distributed systems, real-time platforms handling thousands of concurrent users, to privacy-preserving applications using cutting-edge cryptography. I architect solutions that solve real problems.
 
-**Currently:** Fullstack Engineer at [DSTRCT Group](https://www.linkedin.com/company/dstrctgroup/)—building web & mobile solutions for brands across media and creative industries.
+**Currently:** Fullstack Engineer at [DSTRCT Group](https://www.linkedin.com/company/dstrctgroup/) — building web & mobile solutions for brands across media and creative industries.
 
-**Building:** [Gamerie](https://gamerie.gg)—an esports social platform with a complete token economy, real-time competitive gaming, and 200+ API endpoints.
+**Building:** [Gamerie](https://gamerie.gg) — an esports social platform with a complete token economy, real-time competitive gaming, and 200+ API endpoints.
 
 ---
 
